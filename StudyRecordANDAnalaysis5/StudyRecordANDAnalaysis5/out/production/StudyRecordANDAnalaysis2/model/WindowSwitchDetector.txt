@@ -1,0 +1,224 @@
+package model;
+
+import Util.LoggerUtil;
+import service.DistractionService;
+import service.StudyService;
+
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+import java.time.LocalDateTime;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Timer;
+import java.util.TimerTask;
+
+/**
+ * UI窗口切换检测器，通过监听窗口焦点和面板切换来检测分心
+ */
+public class WindowSwitchDetector implements WindowFocusListener, FocusListener {
+    private JFrame mainFrame;
+    private DistractionService distractionService;
+    private StudyService studyService;
+    private view.pannel.TimerPanel timerPanel;
+    private List<JPanel> productivePanels; // 学习相关面板
+    private Timer focusLossTimer;
+    private long focusLossThreshold; // 失焦持续时间阈值（毫秒）
+    private boolean isMainFrameFocused = true;
+    private Component lastFocusedComponent;
+    private LocalDateTime lastDistractionTime;
+    private long debounceInterval; // 防抖间隔（毫秒）
+
+    public WindowSwitchDetector(JFrame mainFrame, DistractionService distractionService,
+                                StudyService studyService, view.pannel.TimerPanel timerPanel) {
+        this.mainFrame = mainFrame;
+        this.distractionService = distractionService;
+        this.studyService = studyService;
+        this.timerPanel = timerPanel;
+        this.focusLossThreshold = 5000; // 默认5秒
+        this.debounceInterval = 30000; // 默认30秒防抖
+        this.productivePanels = new ArrayList<>();
+
+        // 添加窗口焦点监听器
+        mainFrame.addWindowFocusListener(this);
+
+        // 添加全局焦点监听器
+        KeyboardFocusManager.getCurrentKeyboardFocusManager()
+                .addPropertyChangeListener("focusOwner", e -> {
+                    Component focusOwner = (Component) e.getNewValue();
+                    if (focusOwner != null) {
+                        handleFocusChange(focusOwner);
+                    }
+                });
+    }
+
+    /**
+     * 添加学习相关面板，切换到这些面板不会被视为分心
+     */
+    public void addProductivePanel(JPanel panel) {
+        productivePanels.add(panel);
+        // 为面板及其子组件添加焦点监听器
+        addFocusListenersRecursively(panel);
+    }
+
+    private void addFocusListenersRecursively(Component component) {
+        component.addFocusListener(this);
+
+        if (component instanceof Container) {
+            Container container = (Container) component;
+            for (Component child : container.getComponents()) {
+                addFocusListenersRecursively(child);
+            }
+        }
+    }
+
+    @Override
+    public void windowGainedFocus(WindowEvent e) {
+        LoggerUtil.log(java.util.logging.Level.INFO, "主窗口获得焦点");
+        isMainFrameFocused = true;
+
+        // 取消失焦计时器
+        if (focusLossTimer != null) {
+            focusLossTimer.cancel();
+            focusLossTimer = null;
+        }
+    }
+
+    @Override
+    public void windowLostFocus(WindowEvent e) {
+        LoggerUtil.log(java.util.logging.Level.INFO, "主窗口失去焦点");
+        isMainFrameFocused = false;
+
+        // 启动失焦计时器
+        if (focusLossTimer != null) {
+            focusLossTimer.cancel();
+        }
+
+        focusLossTimer = new Timer();
+        focusLossTimer.schedule(new TimerTask() {
+            @Override
+            public void run() {
+                if (!isMainFrameFocused && studyService.isSessionInProgress()) {
+                    recordDistraction("窗口失焦");
+                }
+            }
+        }, focusLossThreshold);
+    }
+
+    @Override
+    public void focusGained(FocusEvent e) {
+        handleFocusChange(e.getComponent());
+    }
+
+    @Override
+    public void focusLost(FocusEvent e) {
+        // 不需要处理
+    }
+
+    private void handleFocusChange(Component component) {
+        if (!studyService.isSessionInProgress()) {
+            return;
+        }
+
+        // 检查是否切换到非学习面板
+        if (!isComponentInProductivePanel(component)) {
+            // 防抖处理
+            if (lastDistractionTime == null ||
+                    java.time.Duration.between(lastDistractionTime, LocalDateTime.now()).toMillis() > debounceInterval) {
+
+                recordDistraction("切换到: " + getComponentDescription(component));
+                lastDistractionTime = LocalDateTime.now();
+            }
+        }
+
+        lastFocusedComponent = component;
+    }
+
+    private boolean isComponentInProductivePanel(Component component) {
+        if (component == null) {
+            return false;
+        }
+
+        // 检查组件是否在学习面板中
+        for (JPanel panel : productivePanels) {
+            if (isComponentInContainer(component, panel)) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    private boolean isComponentInContainer(Component component, Container container) {
+        if (component == container) {
+            return true;
+        }
+
+        Component parent = component.getParent();
+        while (parent != null) {
+            if (parent == container) {
+                return true;
+            }
+            parent = parent.getParent();
+        }
+
+        return false;
+    }
+
+    private String getComponentDescription(Component component) {
+        if (component instanceof JFrame) {
+            return ((JFrame) component).getTitle();
+        } else if (component instanceof JDialog) {
+            return ((JDialog) component).getTitle();
+        } else if (component instanceof JComponent) {
+            String name = component.getName();
+            if (name != null && !name.isEmpty()) {
+                return name;
+            }
+        }
+
+        return component.getClass().getSimpleName();
+    }
+
+    private void recordDistraction(String reason) {
+        // 获取当前学习科目
+        String subject = timerPanel.getSubject();
+        if (subject == null) {
+            subject = "未指定科目";
+        }
+
+        // 记录分心事件
+        distractionService.addDistraction(reason, true, subject);
+
+        // 更新UI
+        SwingUtilities.invokeLater(() -> {
+            timerPanel.updateDistractionList();
+        });
+    }
+
+    // 设置失焦阈值
+    public void setFocusLossThreshold(long threshold) {
+        this.focusLossThreshold = threshold;
+    }
+
+    // 设置防抖间隔
+    public void setDebounceInterval(long interval) {
+        this.debounceInterval = interval;
+    }
+
+    // 释放资源
+    public void dispose() {
+        if (focusLossTimer != null) {
+            focusLossTimer.cancel();
+            focusLossTimer = null;
+        }
+
+        mainFrame.removeWindowFocusListener(this);
+        mainFrame = null;
+        distractionService = null;
+        studyService = null;
+        timerPanel = null;
+        productivePanels.clear();
+        productivePanels = null;
+    }
+}

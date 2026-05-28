@@ -1,0 +1,76 @@
+7月 08, 2025 6:45:18 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 0 个学习会话
+7月 08, 2025 6:45:19 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 08, 2025 6:45:19 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 6:45:23 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 08, 2025 6:45:27 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 6:45:30 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-08T18:45:30.299755700, isAutoDetected=true
+7月 08, 2025 6:45:30 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 08, 2025 6:45:36 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 6:45:39 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 08, 2025 6:45:39 下午 Util.LoggerUtil log
+信息: 学习会话已保存: 0e6d37d7-eed5-497d-910d-d5266f7f4dd3
+7月 08, 2025 6:45:39 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 6:45:40 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 6:45:49 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Python
+7月 08, 2025 6:45:53 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 6:45:55 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 6:45:58 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 6:46:01 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Python, reason=窗口失焦, timestamp=2025-07-08T18:46:01.080123300, isAutoDetected=true
+7月 08, 2025 6:46:01 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 08, 2025 6:46:01 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 6:46:16 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Python, reason=环境过热走神, timestamp=2025-07-08T18:46:16.207491200, isAutoDetected=false
+7月 08, 2025 6:46:16 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 6:46:18 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 08, 2025 6:46:18 下午 Util.LoggerUtil log
+信息: 学习会话已保存: 78016d52-1e2e-44ff-9b48-571c0c7c3bef
+7月 08, 2025 6:46:18 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 6:46:19 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 6:46:24 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 6:46:35 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 6:46:39 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 6:46:40 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 6:46:42 下午 Util.LoggerUtil log
+信息: 生成周报: 2025-07-07 - 2025-07-08
+7月 08, 2025 6:47:09 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 08, 2025 6:47:15 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 08, 2025 6:47:15 下午 Util.LoggerUtil log
+信息: 学习会话已保存: fad4fec7-00b8-4bfe-87cd-bc9a3ab13cf9
+7月 08, 2025 6:47:15 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 6:47:17 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 6:48:15 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 6:48:20 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 6:48:24 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点

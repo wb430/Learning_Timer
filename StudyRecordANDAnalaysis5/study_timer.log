@@ -1,0 +1,2043 @@
+7月 07, 2025 9:54:59 上午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 0 个学习会话
+7月 07, 2025 9:54:59 上午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 9:55:00 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:55:01 上午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 9:55:04 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:55:07 上午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 542b32c8-ea99-413b-b355-70d73d4fb782
+7月 07, 2025 9:55:21 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:55:21 上午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 9:55:21 上午 Util.LoggerUtil log
+信息: 学习会话已保存: 542b32c8-ea99-413b-b355-70d73d4fb782
+7月 07, 2025 9:55:21 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:55:22 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:55:23 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:57:43 上午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 1 个学习会话
+7月 07, 2025 9:57:43 上午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 9:57:44 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:57:48 上午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 9:57:48 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:57:51 上午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: b6f4ff69-05fb-45d3-b772-97e40f8e24d8
+7月 07, 2025 9:57:59 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:58:01 上午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 9:58:01 上午 Util.LoggerUtil log
+信息: 学习会话已保存: b6f4ff69-05fb-45d3-b772-97e40f8e24d8
+7月 07, 2025 9:58:01 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:58:02 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:58:03 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:58:56 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:58:58 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:58:59 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:59:01 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:59:02 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:59:03 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:00:43 上午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 3 个学习会话
+7月 07, 2025 10:00:44 上午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 10:00:44 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:00:44 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:00:48 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:00:48 上午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 10:00:54 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:00:57 上午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 1c0da2f6-c184-4e3f-a472-bf7046fb68ec
+7月 07, 2025 10:01:03 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:01:03 上午 Util.LoggerUtil log
+信息: 添加分心记录: context=1c0da2f6-c184-4e3f-a472-bf7046fb68ec, reason=窗口失焦, timestamp=2025-07-07T10:01:03.412010300, isAutoDetected=true
+7月 07, 2025 10:01:13 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:01:16 上午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 1c0da2f6-c184-4e3f-a472-bf7046fb68ec
+7月 07, 2025 10:01:21 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:01:21 上午 Util.LoggerUtil log
+信息: 添加分心记录: context=1c0da2f6-c184-4e3f-a472-bf7046fb68ec, reason=窗口失焦, timestamp=2025-07-07T10:01:21.496598600, isAutoDetected=true
+7月 07, 2025 10:01:33 上午 Util.LoggerUtil log
+信息: 添加分心记录: context=1c0da2f6-c184-4e3f-a472-bf7046fb68ec, reason=窗口失焦, timestamp=2025-07-07T10:01:33.177269800, isAutoDetected=true
+7月 07, 2025 10:01:33 上午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 10:01:33 上午 Util.LoggerUtil log
+信息: 学习会话已保存: 1c0da2f6-c184-4e3f-a472-bf7046fb68ec
+7月 07, 2025 10:01:33 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:01:33 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:01:44 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:01:44 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:01:44 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:01:44 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:01:52 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:01:56 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:02:04 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:02:04 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:02:07 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:02:13 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:02:19 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:02:19 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:02:23 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:02:23 上午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 10:02:25 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:02:28 上午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: ecb4109e-877c-491c-83ef-8767f4d60563
+7月 07, 2025 10:02:29 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:02:39 上午 Util.LoggerUtil log
+信息: 添加分心记录: context=ecb4109e-877c-491c-83ef-8767f4d60563, reason=窗口失焦, timestamp=2025-07-07T10:02:39.828089500, isAutoDetected=true
+7月 07, 2025 10:02:39 上午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 10:02:39 上午 Util.LoggerUtil log
+信息: 学习会话已保存: ecb4109e-877c-491c-83ef-8767f4d60563
+7月 07, 2025 10:02:39 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:02:39 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:02:42 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:02:42 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:02:49 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:02:51 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:02:51 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:02:52 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:02:52 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:06:22 上午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 5 个学习会话
+7月 07, 2025 10:06:22 上午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 10:06:23 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:06:23 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:06:24 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:06:24 上午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 10:06:27 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:06:30 上午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 32688557-23bd-4288-a980-84ac33e4a155
+7月 07, 2025 10:06:32 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:06:38 上午 Util.LoggerUtil log
+信息: 添加分心记录: context=32688557-23bd-4288-a980-84ac33e4a155, reason=窗口失焦, timestamp=2025-07-07T10:06:38.387865200, isAutoDetected=true
+7月 07, 2025 10:06:38 上午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 10:06:38 上午 Util.LoggerUtil log
+信息: 学习会话已保存: 32688557-23bd-4288-a980-84ac33e4a155
+7月 07, 2025 10:06:38 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:06:38 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:06:40 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:06:40 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:06:40 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:06:43 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:06:43 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:06:50 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:07:47 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:07:47 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:07:48 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:07:49 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:07:53 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:07:56 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:08:20 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:08:21 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:08:23 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:08:25 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:08:30 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:08:39 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:09:28 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:09:28 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:09:32 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:10:04 上午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 6 个学习会话
+7月 07, 2025 10:10:04 上午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 10:10:04 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:10:05 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:10:06 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:10:06 上午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 10:10:07 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:10:10 上午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 06e6ef7c-df4f-48fb-9ebc-7c7198a477ea
+7月 07, 2025 10:10:12 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:10:20 上午 Util.LoggerUtil log
+信息: 添加分心记录: context=06e6ef7c-df4f-48fb-9ebc-7c7198a477ea, reason=窗口失焦, timestamp=2025-07-07T10:10:20.535559500, isAutoDetected=true
+7月 07, 2025 10:10:20 上午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 10:10:20 上午 Util.LoggerUtil log
+信息: 学习会话已保存: 06e6ef7c-df4f-48fb-9ebc-7c7198a477ea
+7月 07, 2025 10:10:20 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:10:20 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:10:24 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:10:24 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:10:29 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:11:12 上午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 7 个学习会话
+7月 07, 2025 10:11:13 上午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 10:11:13 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:11:13 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:11:14 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:11:14 上午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 10:11:18 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:11:21 上午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: e6f6282a-3293-4965-aacf-91e403890a31
+7月 07, 2025 10:11:29 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:11:29 上午 Util.LoggerUtil log
+信息: 添加分心记录: context=e6f6282a-3293-4965-aacf-91e403890a31, reason=窗口失焦, timestamp=2025-07-07T10:11:29.597767800, isAutoDetected=true
+7月 07, 2025 10:11:36 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:11:39 上午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: e6f6282a-3293-4965-aacf-91e403890a31
+7月 07, 2025 10:11:40 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:11:40 上午 Util.LoggerUtil log
+信息: 添加分心记录: context=e6f6282a-3293-4965-aacf-91e403890a31, reason=窗口失焦, timestamp=2025-07-07T10:11:40.687267800, isAutoDetected=true
+7月 07, 2025 10:11:43 上午 Util.LoggerUtil log
+信息: 添加分心记录: context=e6f6282a-3293-4965-aacf-91e403890a31, reason=窗口失焦, timestamp=2025-07-07T10:11:43.587539300, isAutoDetected=true
+7月 07, 2025 10:11:43 上午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 10:11:43 上午 Util.LoggerUtil log
+信息: 学习会话已保存: e6f6282a-3293-4965-aacf-91e403890a31
+7月 07, 2025 10:11:43 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:11:43 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:11:44 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:11:44 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:11:45 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:11:45 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:11:49 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:12:04 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:12:04 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:12:06 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:12:15 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:12:15 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:12:17 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:13:07 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:13:07 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:13:08 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:13:30 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:13:30 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:13:37 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:13:40 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:13:41 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:13:42 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:13:46 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:13:46 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:13:48 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:13:57 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:13:59 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:13:59 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:14:00 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:14:05 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:14:06 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:14:10 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:14:10 上午 Util.LoggerUtil log
+信息: 生成周报: 2025-07-07 - 2025-07-07
+7月 07, 2025 10:14:12 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:14:13 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:14:19 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:14:21 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:14:21 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:14:31 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:14:31 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:19:26 上午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 8 个学习会话
+7月 07, 2025 10:19:26 上午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 10:19:27 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:19:27 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:19:28 上午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 10:19:32 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:19:35 上午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: e47bdec3-a76a-402c-a08f-27683a23019b
+7月 07, 2025 10:19:48 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:19:48 上午 Util.LoggerUtil log
+信息: 添加分心记录: context=e47bdec3-a76a-402c-a08f-27683a23019b, reason=窗口失焦, timestamp=2025-07-07T10:19:48.067428, isAutoDetected=true
+7月 07, 2025 10:20:09 上午 Util.LoggerUtil log
+信息: 添加分心记录: context=e47bdec3-a76a-402c-a08f-27683a23019b, reason=窗口失焦, timestamp=2025-07-07T10:20:09.177614700, isAutoDetected=true
+7月 07, 2025 10:20:09 上午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 10:20:09 上午 Util.LoggerUtil log
+信息: 学习会话已保存: e47bdec3-a76a-402c-a08f-27683a23019b
+7月 07, 2025 10:20:09 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:20:09 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:20:12 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:20:12 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:20:13 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:21:48 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:21:48 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:21:50 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:21:52 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:21:54 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:22:08 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:22:08 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:22:14 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:22:15 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:27:02 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:27:02 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:27:04 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:27:09 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:27:10 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:28:56 上午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 9 个学习会话
+7月 07, 2025 10:28:57 上午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 10:28:57 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:28:57 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:28:58 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:28:58 上午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 10:29:01 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:29:04 上午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 3793c3bc-77aa-4737-95d1-86a04440a401
+7月 07, 2025 10:29:09 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:29:09 上午 Util.LoggerUtil log
+信息: 添加分心记录: context=3793c3bc-77aa-4737-95d1-86a04440a401, reason=窗口失焦, timestamp=2025-07-07T10:29:09.836544400, isAutoDetected=true
+7月 07, 2025 10:29:20 上午 Util.LoggerUtil log
+信息: 添加分心记录: context=3793c3bc-77aa-4737-95d1-86a04440a401, reason=窗口失焦, timestamp=2025-07-07T10:29:20.789963200, isAutoDetected=true
+7月 07, 2025 10:29:20 上午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 10:29:20 上午 Util.LoggerUtil log
+信息: 学习会话已保存: 3793c3bc-77aa-4737-95d1-86a04440a401
+7月 07, 2025 10:29:20 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:29:20 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:29:22 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:29:22 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:29:23 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:29:32 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:29:32 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:29:34 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:29:36 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:29:38 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:29:38 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:29:39 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:30:01 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:30:01 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:30:03 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:30:05 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:30:36 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:30:36 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:30:37 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:30:37 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:32:52 上午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 10 个学习会话
+7月 07, 2025 10:32:52 上午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 10:32:53 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:32:53 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:32:54 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:32:54 上午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 10:32:57 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:33:00 上午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 3feca624-096c-456b-9182-1fbb47b16884
+7月 07, 2025 10:33:06 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:33:06 上午 Util.LoggerUtil log
+信息: 添加分心记录: context=3feca624-096c-456b-9182-1fbb47b16884, reason=窗口失焦, timestamp=2025-07-07T10:33:06.680062100, isAutoDetected=true
+7月 07, 2025 10:33:09 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:33:12 上午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 3feca624-096c-456b-9182-1fbb47b16884
+7月 07, 2025 10:33:15 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:33:15 上午 Util.LoggerUtil log
+信息: 添加分心记录: context=3feca624-096c-456b-9182-1fbb47b16884, reason=窗口失焦, timestamp=2025-07-07T10:33:15.040137700, isAutoDetected=true
+7月 07, 2025 10:33:18 上午 Util.LoggerUtil log
+信息: 添加分心记录: context=3feca624-096c-456b-9182-1fbb47b16884, reason=窗口失焦, timestamp=2025-07-07T10:33:18.379736800, isAutoDetected=true
+7月 07, 2025 10:33:18 上午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 10:33:18 上午 Util.LoggerUtil log
+信息: 学习会话已保存: 3feca624-096c-456b-9182-1fbb47b16884
+7月 07, 2025 10:33:18 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:33:18 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:33:19 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:33:19 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:33:20 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:33:20 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:33:25 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:33:28 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:33:31 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:33:31 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:33:37 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:33:37 上午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 10:33:42 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:33:45 上午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 0c3e33e0-4d2a-4fab-a476-5a228949f6ef
+7月 07, 2025 10:33:46 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:33:52 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:33:55 上午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 0c3e33e0-4d2a-4fab-a476-5a228949f6ef
+7月 07, 2025 10:33:56 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:33:56 上午 Util.LoggerUtil log
+信息: 添加分心记录: context=0c3e33e0-4d2a-4fab-a476-5a228949f6ef, reason=窗口失焦, timestamp=2025-07-07T10:33:56.561902300, isAutoDetected=true
+7月 07, 2025 10:34:04 上午 Util.LoggerUtil log
+信息: 添加分心记录: context=0c3e33e0-4d2a-4fab-a476-5a228949f6ef, reason=窗口失焦, timestamp=2025-07-07T10:34:04.100067600, isAutoDetected=true
+7月 07, 2025 10:34:04 上午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 10:34:04 上午 Util.LoggerUtil log
+信息: 学习会话已保存: 0c3e33e0-4d2a-4fab-a476-5a228949f6ef
+7月 07, 2025 10:34:04 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:34:04 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:34:38 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:34:40 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:34:40 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:34:42 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:34:43 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:35:00 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:35:00 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:35:01 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:35:04 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:35:04 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:35:05 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:35:06 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:35:07 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:35:08 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:35:10 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:35:16 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:35:16 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:35:22 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:35:26 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:35:26 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:35:27 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 10:35:35 上午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 10:35:35 上午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 10:35:35 上午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 5:48:04 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 12 个学习会话
+7月 07, 2025 5:48:04 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 5:48:05 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 5:48:05 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 5:48:06 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 5:48:06 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 5:48:10 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 5:48:13 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 3c3f1c39-b323-4c09-93ba-350ad316ee8b
+7月 07, 2025 5:48:14 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 5:48:17 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=3c3f1c39-b323-4c09-93ba-350ad316ee8b, reason=窗口失焦, timestamp=2025-07-07T17:48:17.231252, isAutoDetected=true
+7月 07, 2025 5:48:17 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 5:48:17 下午 Util.LoggerUtil log
+信息: 学习会话已保存: 3c3f1c39-b323-4c09-93ba-350ad316ee8b
+7月 07, 2025 5:48:17 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 5:48:17 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 5:48:18 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 5:48:18 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 5:48:19 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 5:48:20 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 5:48:20 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 5:48:22 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 5:48:22 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 5:48:27 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 5:48:30 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: d427d7e5-26fb-4175-9974-aecf40bd9f8b
+7月 07, 2025 5:48:31 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 5:48:34 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 5:48:37 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: d427d7e5-26fb-4175-9974-aecf40bd9f8b
+7月 07, 2025 5:48:38 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 5:48:38 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=d427d7e5-26fb-4175-9974-aecf40bd9f8b, reason=窗口失焦, timestamp=2025-07-07T17:48:38.145393, isAutoDetected=true
+7月 07, 2025 5:48:39 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=d427d7e5-26fb-4175-9974-aecf40bd9f8b, reason=窗口失焦, timestamp=2025-07-07T17:48:39.537774, isAutoDetected=true
+7月 07, 2025 5:48:39 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 5:48:39 下午 Util.LoggerUtil log
+信息: 学习会话已保存: d427d7e5-26fb-4175-9974-aecf40bd9f8b
+7月 07, 2025 5:48:39 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 5:48:39 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 5:48:44 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 5:48:45 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 5:49:04 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 5:49:14 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 5:49:17 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 5:49:27 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 5:49:40 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 5:57:41 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 14 个学习会话
+7月 07, 2025 5:57:42 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 5:57:42 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 5:57:42 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 5:57:45 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 5:57:46 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 5:57:50 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 5:57:53 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 8bce199a-728d-4aee-908f-2aad7384faeb
+7月 07, 2025 5:57:57 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 5:57:57 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:57:57.167075, isAutoDetected=true
+7月 07, 2025 5:58:02 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 5:58:05 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 8bce199a-728d-4aee-908f-2aad7384faeb
+7月 07, 2025 5:58:08 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 5:58:08 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:08.844768, isAutoDetected=true
+7月 07, 2025 5:58:11 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:11.768901, isAutoDetected=true
+7月 07, 2025 5:58:12 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 5:58:12 下午 Util.LoggerUtil log
+信息: 记录分心: 切换到: OptionPane.button, 会话ID: 8bce199a-728d-4aee-908f-2aad7384faeb
+7月 07, 2025 5:58:12 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:12.028779, isAutoDetected=true
+7月 07, 2025 5:58:12 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:12.089474, isAutoDetected=true
+7月 07, 2025 5:58:12 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:12.187891, isAutoDetected=true
+7月 07, 2025 5:58:12 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:12.295959, isAutoDetected=true
+7月 07, 2025 5:58:12 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:12.359956, isAutoDetected=true
+7月 07, 2025 5:58:12 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:12.436084, isAutoDetected=true
+7月 07, 2025 5:58:12 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:12.500419, isAutoDetected=true
+7月 07, 2025 5:58:12 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:12.568554, isAutoDetected=true
+7月 07, 2025 5:58:12 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:12.634931, isAutoDetected=true
+7月 07, 2025 5:58:12 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:12.701615, isAutoDetected=true
+7月 07, 2025 5:58:12 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:12.769889, isAutoDetected=true
+7月 07, 2025 5:58:12 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:12.836002, isAutoDetected=true
+7月 07, 2025 5:58:12 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:12.918, isAutoDetected=true
+7月 07, 2025 5:58:12 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:12.979480, isAutoDetected=true
+7月 07, 2025 5:58:13 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:13.089029, isAutoDetected=true
+7月 07, 2025 5:58:13 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:13.191661, isAutoDetected=true
+7月 07, 2025 5:58:13 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:13.279724, isAutoDetected=true
+7月 07, 2025 5:58:13 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:13.351611, isAutoDetected=true
+7月 07, 2025 5:58:13 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:13.461178, isAutoDetected=true
+7月 07, 2025 5:58:13 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:13.548388, isAutoDetected=true
+7月 07, 2025 5:58:13 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:13.626800, isAutoDetected=true
+7月 07, 2025 5:58:13 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:13.716566, isAutoDetected=true
+7月 07, 2025 5:58:13 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:13.804787, isAutoDetected=true
+7月 07, 2025 5:58:13 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:13.929100, isAutoDetected=true
+7月 07, 2025 5:58:14 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:14.036292, isAutoDetected=true
+7月 07, 2025 5:58:14 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:14.150446, isAutoDetected=true
+7月 07, 2025 5:58:14 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:14.230827, isAutoDetected=true
+7月 07, 2025 5:58:14 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:14.322104, isAutoDetected=true
+7月 07, 2025 5:58:14 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:14.407450, isAutoDetected=true
+7月 07, 2025 5:58:14 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:14.478493, isAutoDetected=true
+7月 07, 2025 5:58:14 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:14.562537, isAutoDetected=true
+7月 07, 2025 5:58:14 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:14.638338, isAutoDetected=true
+7月 07, 2025 5:58:14 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:14.723394, isAutoDetected=true
+7月 07, 2025 5:58:14 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:14.813584, isAutoDetected=true
+7月 07, 2025 5:58:14 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:14.903799, isAutoDetected=true
+7月 07, 2025 5:58:15 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:15.008307, isAutoDetected=true
+7月 07, 2025 5:58:15 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 8bce199a-728d-4aee-908f-2aad7384faeb
+7月 07, 2025 5:58:15 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:15.097666, isAutoDetected=true
+7月 07, 2025 5:58:15 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:15.188100, isAutoDetected=true
+7月 07, 2025 5:58:15 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:15.276044, isAutoDetected=true
+7月 07, 2025 5:58:15 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:15.369606, isAutoDetected=true
+7月 07, 2025 5:58:15 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:15.496312, isAutoDetected=true
+7月 07, 2025 5:58:15 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:15.587579, isAutoDetected=true
+7月 07, 2025 5:58:15 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:15.689508, isAutoDetected=true
+7月 07, 2025 5:58:15 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:15.813110, isAutoDetected=true
+7月 07, 2025 5:58:15 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:15.974788, isAutoDetected=true
+7月 07, 2025 5:58:16 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:16.088035, isAutoDetected=true
+7月 07, 2025 5:58:16 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:16.226714, isAutoDetected=true
+7月 07, 2025 5:58:16 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:16.346016, isAutoDetected=true
+7月 07, 2025 5:58:16 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:16.435930, isAutoDetected=true
+7月 07, 2025 5:58:16 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:16.559549, isAutoDetected=true
+7月 07, 2025 5:58:16 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:16.688403, isAutoDetected=true
+7月 07, 2025 5:58:16 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:16.801413, isAutoDetected=true
+7月 07, 2025 5:58:16 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:16.902182, isAutoDetected=true
+7月 07, 2025 5:58:17 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:17.067571, isAutoDetected=true
+7月 07, 2025 5:58:17 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:17.169703, isAutoDetected=true
+7月 07, 2025 5:58:17 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T17:58:17.287278, isAutoDetected=true
+7月 07, 2025 5:59:59 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 14 个学习会话
+7月 07, 2025 6:00:00 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 6:00:00 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:00:00 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空或会话已结束
+7月 07, 2025 6:00:01 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空或会话已结束
+7月 07, 2025 6:00:01 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 6:00:03 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:00:06 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 90a73c37-eb0b-4d21-a501-4eecc3df4272
+7月 07, 2025 6:00:07 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:00:10 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:00:13 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 90a73c37-eb0b-4d21-a501-4eecc3df4272
+7月 07, 2025 6:00:16 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:00:16 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:16.362127, isAutoDetected=true
+7月 07, 2025 6:00:21 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:00:24 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 90a73c37-eb0b-4d21-a501-4eecc3df4272
+7月 07, 2025 6:00:25 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:00:25 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:25.664169, isAutoDetected=true
+7月 07, 2025 6:00:27 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:27.040781, isAutoDetected=true
+7月 07, 2025 6:00:27 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:00:27 下午 Util.LoggerUtil log
+信息: 记录分心: 切换到: OptionPane.button, 会话ID: 90a73c37-eb0b-4d21-a501-4eecc3df4272
+7月 07, 2025 6:00:27 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:27.174828, isAutoDetected=true
+7月 07, 2025 6:00:27 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:27.261122, isAutoDetected=true
+7月 07, 2025 6:00:27 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:27.340328, isAutoDetected=true
+7月 07, 2025 6:00:27 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:27.413636, isAutoDetected=true
+7月 07, 2025 6:00:27 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:27.475663, isAutoDetected=true
+7月 07, 2025 6:00:27 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:27.579088, isAutoDetected=true
+7月 07, 2025 6:00:27 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:27.641798, isAutoDetected=true
+7月 07, 2025 6:00:27 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:27.716034, isAutoDetected=true
+7月 07, 2025 6:00:27 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:27.796611, isAutoDetected=true
+7月 07, 2025 6:00:27 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:27.889334, isAutoDetected=true
+7月 07, 2025 6:00:27 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:27.981875, isAutoDetected=true
+7月 07, 2025 6:00:28 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:28.090001, isAutoDetected=true
+7月 07, 2025 6:00:28 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:28.188365, isAutoDetected=true
+7月 07, 2025 6:00:28 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:28.267819, isAutoDetected=true
+7月 07, 2025 6:00:28 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:28.378399, isAutoDetected=true
+7月 07, 2025 6:00:28 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:28.459685, isAutoDetected=true
+7月 07, 2025 6:00:28 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:28.544530, isAutoDetected=true
+7月 07, 2025 6:00:28 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:28.625521, isAutoDetected=true
+7月 07, 2025 6:00:28 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:28.701949, isAutoDetected=true
+7月 07, 2025 6:00:28 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:28.778529, isAutoDetected=true
+7月 07, 2025 6:00:28 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:28.844991, isAutoDetected=true
+7月 07, 2025 6:00:28 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:28.914016, isAutoDetected=true
+7月 07, 2025 6:00:29 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:29.015343, isAutoDetected=true
+7月 07, 2025 6:00:29 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:29.092553, isAutoDetected=true
+7月 07, 2025 6:00:29 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:29.180195, isAutoDetected=true
+7月 07, 2025 6:00:29 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:29.272632, isAutoDetected=true
+7月 07, 2025 6:00:29 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:29.353079, isAutoDetected=true
+7月 07, 2025 6:00:29 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:29.449870, isAutoDetected=true
+7月 07, 2025 6:00:29 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:29.530852, isAutoDetected=true
+7月 07, 2025 6:00:29 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:29.606707, isAutoDetected=true
+7月 07, 2025 6:00:29 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:29.697194, isAutoDetected=true
+7月 07, 2025 6:00:29 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:29.778071, isAutoDetected=true
+7月 07, 2025 6:00:29 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:29.861577, isAutoDetected=true
+7月 07, 2025 6:00:29 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:29.944392, isAutoDetected=true
+7月 07, 2025 6:00:30 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:30.050286, isAutoDetected=true
+7月 07, 2025 6:00:30 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:30.127955, isAutoDetected=true
+7月 07, 2025 6:00:30 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 90a73c37-eb0b-4d21-a501-4eecc3df4272
+7月 07, 2025 6:00:30 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:30.277237, isAutoDetected=true
+7月 07, 2025 6:00:30 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:30.365086, isAutoDetected=true
+7月 07, 2025 6:00:30 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:30.454116, isAutoDetected=true
+7月 07, 2025 6:00:30 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:30.544318, isAutoDetected=true
+7月 07, 2025 6:00:30 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:30.634533, isAutoDetected=true
+7月 07, 2025 6:00:30 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:30.742624, isAutoDetected=true
+7月 07, 2025 6:00:30 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:30.869608, isAutoDetected=true
+7月 07, 2025 6:00:31 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:31.007209, isAutoDetected=true
+7月 07, 2025 6:00:31 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:31.108821, isAutoDetected=true
+7月 07, 2025 6:00:31 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:00:31.256308, isAutoDetected=true
+7月 07, 2025 6:02:32 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 14 个学习会话
+7月 07, 2025 6:02:32 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 6:02:33 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:02:34 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 6:02:38 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:02:41 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 653cedde-f241-44a9-858d-6af28abde85d
+7月 07, 2025 6:02:43 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:02:48 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:02:51 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦, 会话ID: 653cedde-f241-44a9-858d-6af28abde85d
+7月 07, 2025 6:02:51 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:02:51 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:02:51.921723, isAutoDetected=true
+7月 07, 2025 6:02:52 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:02:52.883079, isAutoDetected=true
+7月 07, 2025 6:02:52 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 6:02:52 下午 Util.LoggerUtil log
+信息: 学习会话已保存: 653cedde-f241-44a9-858d-6af28abde85d
+7月 07, 2025 6:02:55 下午 Util.LoggerUtil log
+严重: 更新会话状态失败
+java.lang.NullPointerException
+	at model.DistractionDetector.updateSessionStatus(DistractionDetector.java:240)
+	at model.DistractionDetector.handleFocusChange(DistractionDetector.java:139)
+	at model.DistractionDetector.focusGained(DistractionDetector.java:129)
+	at java.desktop/java.awt.AWTEventMulticaster.focusGained(AWTEventMulticaster.java:228)
+	at java.desktop/java.awt.Component.processFocusEvent(Component.java:6524)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6391)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.KeyboardFocusManager.redispatchEvent(KeyboardFocusManager.java:1950)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(DefaultKeyboardFocusManager.java:1050)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.dispatchEvent(DefaultKeyboardFocusManager.java:674)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4892)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+7月 07, 2025 6:12:20 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 15 个学习会话
+7月 07, 2025 6:12:21 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 6:12:21 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:12:21 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 6:12:32 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 6:12:32 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 6:12:38 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:12:41 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:12:41.273235, isAutoDetected=true
+7月 07, 2025 6:12:41 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:12:44 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:12:44 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:12:44.296224, isAutoDetected=true
+7月 07, 2025 6:12:50 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:12:53 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:12:53.982949, isAutoDetected=true
+7月 07, 2025 6:12:53 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:13:00 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:13:00 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:13:00.279185, isAutoDetected=true
+7月 07, 2025 6:13:01 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:13:01.503798, isAutoDetected=true
+7月 07, 2025 6:13:01 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 6:13:01 下午 Util.LoggerUtil log
+信息: 学习会话已保存: a16ac1e1-e6ec-4503-aa40-ab84995ad59f
+7月 07, 2025 6:13:01 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:13:01 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 6:13:03 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:13:03 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 6:13:05 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:13:17 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:13:17 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 6:13:18 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:14:42 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:14:42 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 6:14:44 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:14:44 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:14:44 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 6:14:45 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:17:55 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:17:55 下午 Util.LoggerUtil log
+警告: 尝试添加分心记录，但当前会话ID为空
+7月 07, 2025 6:17:56 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:18:00 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 16 个学习会话
+7月 07, 2025 6:18:01 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 6:18:03 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:18:04 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:18:07 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:18:09 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 6:18:14 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:18:17 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:18:17.407738, isAutoDetected=true
+7月 07, 2025 6:18:17 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:18:19 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:18:22 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:18:25 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:18:25.335945, isAutoDetected=true
+7月 07, 2025 6:18:25 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:18:26 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:18:28 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 6:18:28 下午 Util.LoggerUtil log
+信息: 学习会话已保存: b5ec6b50-3e39-4c6b-8967-dce5f34105d4
+7月 07, 2025 6:18:28 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:18:45 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:18:50 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:24:03 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 17 个学习会话
+7月 07, 2025 6:24:04 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 6:24:04 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:24:07 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 6:24:12 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:24:15 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:24:15.724752, isAutoDetected=true
+7月 07, 2025 6:24:15 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:24:17 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:24:18 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:24:21 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:24:21.191654, isAutoDetected=true
+7月 07, 2025 6:24:21 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:24:22 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:24:23 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:24:26 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:24:26.323508, isAutoDetected=true
+7月 07, 2025 6:24:26 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:24:26 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 6:24:26 下午 Util.LoggerUtil log
+信息: 学习会话已保存: 807da68d-f465-447b-82da-2333c8cd7b9a
+7月 07, 2025 6:24:26 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:24:34 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:24:54 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:24:56 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:24:58 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:25:04 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:25:05 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:25:07 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:25:07 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:25:08 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:27:32 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:27:33 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:28:07 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:28:08 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:28:15 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 18 个学习会话
+7月 07, 2025 6:28:15 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 6:28:16 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:28:18 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 6:28:21 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:28:24 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:28:24.076979, isAutoDetected=true
+7月 07, 2025 6:28:24 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:28:24 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:28:26 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:28:29 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:28:29.521718, isAutoDetected=true
+7月 07, 2025 6:28:29 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:28:30 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:28:31 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 6:28:31 下午 Util.LoggerUtil log
+信息: 学习会话已保存: b623e11c-a4b5-478c-9d63-ffb28c13d3e1
+7月 07, 2025 6:28:32 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:28:33 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:28:40 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:28:43 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 19 个学习会话
+7月 07, 2025 6:28:43 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 6:28:44 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:28:45 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 6:28:50 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:28:53 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:28:53.564501, isAutoDetected=true
+7月 07, 2025 6:28:53 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:28:55 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:28:56 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:28:59 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:28:59.116389, isAutoDetected=true
+7月 07, 2025 6:28:59 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:29:00 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:29:01 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 6:29:02 下午 Util.LoggerUtil log
+信息: 学习会话已保存: 84a62db6-0e34-4742-8801-efa4d92daedc
+7月 07, 2025 6:29:02 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:30:02 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:30:03 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:30:21 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:30:24 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:30:31 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:30:33 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:31:42 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 20 个学习会话
+7月 07, 2025 6:31:42 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 6:31:42 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:31:48 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 6:31:52 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:31:55 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:31:55.881930, isAutoDetected=true
+7月 07, 2025 6:31:55 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:31:57 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:31:58 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:32:01 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:32:01.561094, isAutoDetected=true
+7月 07, 2025 6:32:01 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:32:08 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:32:09 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 6:32:09 下午 Util.LoggerUtil log
+信息: 学习会话已保存: d522cebe-cd87-4b2b-aadc-00ff4ad3cc30
+7月 07, 2025 6:32:09 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:32:13 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:32:18 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:32:18 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:32:19 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:33:38 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:33:38 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:35:32 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 21 个学习会话
+7月 07, 2025 6:35:33 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 6:35:33 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:35:35 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 6:35:38 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:35:41 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:35:41.597195, isAutoDetected=true
+7月 07, 2025 6:35:41 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:35:43 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:35:45 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:35:48 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:35:48.464821, isAutoDetected=true
+7月 07, 2025 6:35:48 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:35:49 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:35:51 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 6:35:51 下午 Util.LoggerUtil log
+信息: 学习会话已保存: caa6b5c3-8543-4925-b14e-22ce49108d0a
+7月 07, 2025 6:35:51 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:35:53 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:36:03 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:36:16 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 22 个学习会话
+7月 07, 2025 6:36:16 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 6:41:12 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:41:14 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:41:19 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:41:20 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 6:41:26 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:41:29 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:41:29.798073, isAutoDetected=true
+7月 07, 2025 6:41:29 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:41:30 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:41:33 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:41:36 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:41:36.241709, isAutoDetected=true
+7月 07, 2025 6:41:36 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:41:37 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:41:43 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 6:41:43 下午 Util.LoggerUtil log
+信息: 学习会话已保存: 219d791a-6ce8-433d-81ad-9fbbd24ec526
+7月 07, 2025 6:41:43 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:41:47 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:41:50 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:41:52 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:41:57 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:41:59 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:42:00 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:42:01 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:42:07 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:42:21 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:42:21 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:47:49 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:47:50 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:52:38 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:52:40 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:53:12 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 23 个学习会话
+7月 07, 2025 6:53:12 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 6:53:13 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:53:14 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:53:21 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:53:22 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:53:22 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:53:23 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:53:24 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:53:24 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:53:33 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:53:34 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:53:36 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:53:37 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 6:53:41 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:53:44 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:53:44.744082, isAutoDetected=true
+7月 07, 2025 6:53:44 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:53:47 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:53:49 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:53:52 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:53:52.133470, isAutoDetected=true
+7月 07, 2025 6:53:52 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:54:09 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:54:10 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 6:54:10 下午 Util.LoggerUtil log
+信息: 学习会话已保存: 3fa0a0f8-d74b-4c0c-9ef4-9c75ae414863
+7月 07, 2025 6:54:11 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:54:12 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:54:15 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:54:51 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:54:54 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:54:55 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:54:57 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:58:29 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 24 个学习会话
+7月 07, 2025 6:58:29 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 6:58:30 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:58:31 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 6:58:36 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:58:39 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:58:39.343780, isAutoDetected=true
+7月 07, 2025 6:58:39 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:58:40 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:58:41 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 6:58:41 下午 Util.LoggerUtil log
+信息: 学习会话已保存: 5cb6c2e3-3cd0-4a65-8efb-532afa9ac765
+7月 07, 2025 6:58:41 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:58:42 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:58:45 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:58:48 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:58:55 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:59:00 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 25 个学习会话
+7月 07, 2025 6:59:01 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 6:59:01 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:59:03 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 6:59:09 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:59:12 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:59:12.527794, isAutoDetected=true
+7月 07, 2025 6:59:12 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:59:16 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:59:17 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:59:20 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T18:59:20.904908, isAutoDetected=true
+7月 07, 2025 6:59:20 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 6:59:22 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:59:23 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 6:59:23 下午 Util.LoggerUtil log
+信息: 学习会话已保存: 20c47a64-8968-4351-939b-c0b8c041c688
+7月 07, 2025 6:59:23 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:59:25 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:59:29 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 6:59:33 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 6:59:34 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 7:01:34 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 7:01:37 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:38:43 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 26 个学习会话
+7月 07, 2025 9:38:44 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 9:38:44 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:38:53 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 9:38:54 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:38:57 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=1, timestamp=2025-07-07T21:38:57.179440, isAutoDetected=false
+7月 07, 2025 9:38:57 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:38:57 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:39:00 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-07T21:39:00.844894, isAutoDetected=true
+7月 07, 2025 9:39:00 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 07, 2025 9:39:02 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=2, timestamp=2025-07-07T21:39:02.031404, isAutoDetected=false
+7月 07, 2025 9:39:02 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:39:03 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 9:39:03 下午 Util.LoggerUtil log
+信息: 学习会话已保存: 2b2265d8-aa36-4638-ac03-7167dcacdb69
+7月 07, 2025 9:39:03 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:39:04 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:39:10 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:39:12 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:39:15 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:39:34 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:39:35 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:39:42 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:39:44 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:39:45 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:39:46 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:40:00 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:40:01 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:42:34 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 27 个学习会话
+7月 07, 2025 9:42:35 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 07, 2025 9:42:37 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:42:39 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 07, 2025 9:42:44 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=1, timestamp=2025-07-07T21:42:44.143575, isAutoDetected=false
+7月 07, 2025 9:42:44 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:42:46 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=2, timestamp=2025-07-07T21:42:46.528874, isAutoDetected=false
+7月 07, 2025 9:42:46 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:42:48 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 07, 2025 9:42:48 下午 Util.LoggerUtil log
+信息: 学习会话已保存: a080081e-a28f-4970-9366-c8f1b20aad8b
+7月 07, 2025 9:42:48 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 07, 2025 9:42:50 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 07, 2025 9:42:51 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 12:34:56 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 28 个学习会话
+7月 08, 2025 12:34:56 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 08, 2025 12:34:57 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 12:35:05 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 08, 2025 12:35:09 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 12:35:12 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-08T12:35:12.166282100, isAutoDetected=true
+7月 08, 2025 12:35:12 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 08, 2025 12:35:15 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 12:35:16 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 08, 2025 12:35:16 下午 Util.LoggerUtil log
+信息: 学习会话已保存: 858fa8f8-f29f-4144-a14a-bd5020ec0e86
+7月 08, 2025 12:35:16 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 12:35:17 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 12:35:25 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 12:35:44 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 12:35:45 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 12:35:50 下午 Util.LoggerUtil log
+严重: 加载学习会话失败
+java.io.EOFException
+	at java.base/java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2893)
+	at java.base/java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3388)
+	at java.base/java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:959)
+	at java.base/java.io.ObjectInputStream.<init>(ObjectInputStream.java:397)
+	at service.impl.StudyDAOFileImpl.loadAllSessions(StudyDAOFileImpl.java:49)
+	at service.impl.StudyServiceImpl.<init>(StudyServiceImpl.java:38)
+	at view.MainFrame.<init>(MainFrame.java:34)
+	at view.MainFrame.getInstance(MainFrame.java:137)
+	at view.MainFrame.lambda$main$5(MainFrame.java:152)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:771)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:722)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:716)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:741)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+7月 08, 2025 12:35:50 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 0 个学习会话
+7月 08, 2025 12:35:50 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 08, 2025 12:35:50 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 12:35:54 下午 Util.LoggerUtil log
+信息: 生成周报: 2025-07-07 - 2025-07-08
+7月 08, 2025 12:35:56 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 08, 2025 12:36:00 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 12:36:03 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-08T12:36:03.338941300, isAutoDetected=true
+7月 08, 2025 12:36:03 下午 Util.LoggerUtil log
+严重: 加载分心记录失败
+java.io.EOFException
+	at java.base/java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2893)
+	at java.base/java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3388)
+	at java.base/java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:959)
+	at java.base/java.io.ObjectInputStream.<init>(ObjectInputStream.java:397)
+	at service.impl.StudyDAOFileImpl.loadAllDistractionRecords(StudyDAOFileImpl.java:77)
+	at service.impl.StudyDAOFileImpl.saveDistractionRecord(StudyDAOFileImpl.java:59)
+	at service.impl.StudyServiceImpl.addDistraction(StudyServiceImpl.java:163)
+	at model.DistractionDetector.recordDistraction(DistractionDetector.java:181)
+	at model.DistractionDetector$1.run(DistractionDetector.java:107)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:566)
+	at java.base/java.util.TimerThread.run(Timer.java:516)
+
+7月 08, 2025 12:36:03 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 08, 2025 12:36:11 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 12:36:15 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 12:36:18 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-08T12:36:18.825255600, isAutoDetected=true
+7月 08, 2025 12:36:18 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 08, 2025 12:36:20 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 12:36:20 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 08, 2025 12:36:20 下午 Util.LoggerUtil log
+严重: 加载学习会话失败
+java.io.EOFException
+	at java.base/java.io.ObjectInputStream$PeekInputStream.readFully(ObjectInputStream.java:2893)
+	at java.base/java.io.ObjectInputStream$BlockDataInputStream.readShort(ObjectInputStream.java:3388)
+	at java.base/java.io.ObjectInputStream.readStreamHeader(ObjectInputStream.java:959)
+	at java.base/java.io.ObjectInputStream.<init>(ObjectInputStream.java:397)
+	at service.impl.StudyDAOFileImpl.loadAllSessions(StudyDAOFileImpl.java:49)
+	at service.impl.StudyDAOFileImpl.saveSession(StudyDAOFileImpl.java:18)
+	at service.impl.StudyServiceImpl.endSession(StudyServiceImpl.java:114)
+	at view.pannel.TimerPanel.endStudy(TimerPanel.java:267)
+	at view.pannel.TimerPanel.lambda$setupListeners$3(TimerPanel.java:142)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2313)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:297)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6626)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3389)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6391)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2266)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5001)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4833)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4948)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4575)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4516)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2310)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2780)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4833)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:722)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:716)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:97)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:746)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:744)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:743)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+7月 08, 2025 12:36:20 下午 Util.LoggerUtil log
+信息: 学习会话已保存: 487156ca-744c-4d1c-b922-8cba3f8f8fe1
+7月 08, 2025 12:36:20 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 12:36:21 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 12:36:25 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 12:36:26 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 12:36:52 下午 Util.LoggerUtil log
+信息: 生成周报: 2025-07-07 - 2025-07-08
+7月 08, 2025 12:37:03 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:02:03 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 1 个学习会话
+7月 08, 2025 5:02:03 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 08, 2025 5:02:04 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:02:09 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:02:12 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:02:13 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:02:52 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:02:53 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:03:33 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:03:34 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:40:58 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 1 个学习会话
+7月 08, 2025 5:40:58 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 08, 2025 5:40:59 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:41:02 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 08, 2025 5:41:06 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:41:09 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=窗口失焦, timestamp=2025-07-08T17:41:09.074507600, isAutoDetected=true
+7月 08, 2025 5:41:09 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 08, 2025 5:41:19 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:41:26 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Java, reason=走神, timestamp=2025-07-08T17:41:26.976370300, isAutoDetected=false
+7月 08, 2025 5:41:26 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:41:29 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 08, 2025 5:41:29 下午 Util.LoggerUtil log
+信息: 学习会话已保存: 264f7ded-71f5-47ee-9eef-5d696bb2c33f
+7月 08, 2025 5:41:29 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:41:31 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:41:39 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Java
+7月 08, 2025 5:41:55 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:41:57 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 08, 2025 5:41:57 下午 Util.LoggerUtil log
+信息: 学习会话已保存: 52bfa35d-9e68-4fc8-80d0-1e56c6fe25c5
+7月 08, 2025 5:41:57 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:41:58 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:42:09 下午 Util.LoggerUtil log
+信息: 开始新的学习会话: Python
+7月 08, 2025 5:42:27 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:42:30 下午 Util.LoggerUtil log
+信息: 添加分心记录: context=Python, reason=窗口失焦, timestamp=2025-07-08T17:42:30.064320300, isAutoDetected=true
+7月 08, 2025 5:42:30 下午 Util.LoggerUtil log
+信息: 记录分心: 窗口失焦
+7月 08, 2025 5:42:31 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:42:34 下午 Util.LoggerUtil log
+信息: 结束学习会话
+7月 08, 2025 5:42:34 下午 Util.LoggerUtil log
+信息: 学习会话已保存: 24763a5c-83b0-4789-9cb8-e7e4fa2a795a
+7月 08, 2025 5:42:34 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:42:35 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:42:51 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:42:52 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:42:54 下午 Util.LoggerUtil log
+信息: 生成周报: 2025-07-07 - 2025-07-08
+7月 08, 2025 5:43:09 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:43:39 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:43:45 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:43:54 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:43:55 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:44:03 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:44:07 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:44:12 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:44:14 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:44:19 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:44:20 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:44:59 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:45:02 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:51:01 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 4 个学习会话
+7月 08, 2025 5:51:01 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 08, 2025 5:53:05 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 4 个学习会话
+7月 08, 2025 5:53:05 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 08, 2025 5:53:05 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:53:26 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:53:38 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:53:39 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:53:43 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 4 个学习会话
+7月 08, 2025 5:53:43 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 08, 2025 5:53:43 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:53:50 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:54:06 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 4 个学习会话
+7月 08, 2025 5:54:06 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 08, 2025 5:54:06 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:54:26 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:54:53 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:54:54 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:55:24 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 4 个学习会话
+7月 08, 2025 5:55:24 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 08, 2025 5:55:25 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:55:32 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:55:44 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:55:46 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:55:53 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:55:58 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:56:01 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:56:02 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:56:03 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:56:04 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:57:08 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 4 个学习会话
+7月 08, 2025 5:57:08 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 08, 2025 5:57:09 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:57:12 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 5:59:10 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 5:59:14 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 6:00:09 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 4 个学习会话
+7月 08, 2025 6:00:09 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 08, 2025 6:00:10 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 6:00:12 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 6:00:14 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 6:00:15 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 6:00:20 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 6:00:21 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 6:04:00 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 4 个学习会话
+7月 08, 2025 6:04:00 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 08, 2025 6:04:01 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 6:04:11 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 6:05:16 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 6:05:21 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 6:07:14 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 6:07:15 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点
+7月 08, 2025 6:44:52 下午 Util.LoggerUtil log
+信息: StudyService初始化完成，已加载 4 个学习会话
+7月 08, 2025 6:44:52 下午 Util.LoggerUtil log
+信息: 自动分心检测已启用
+7月 08, 2025 6:44:53 下午 Util.LoggerUtil log
+信息: 主窗口获得焦点
+7月 08, 2025 6:44:54 下午 Util.LoggerUtil log
+信息: 主窗口失去焦点

@@ -1,0 +1,140 @@
+// model/ScreenActivityMonitor.java
+package model;
+
+import Util.ConfigUtil;
+import Util.LoggerUtil;
+
+import javax.swing.*;
+import java.awt.*;
+import java.awt.image.BufferedImage;
+import java.time.LocalDateTime;
+import java.util.function.Consumer;
+
+public class ScreenActivityMonitor {
+    // 创建Robot对象，用于截取屏幕
+    private Robot robot;
+    // 创建定时器，用于定时检测屏幕活动
+    private Timer monitorTimer;
+    // 创建回调函数，用于在检测到屏幕无活动时调用
+    private Consumer<LocalDateTime> distractionCallback;
+
+    private BufferedImage lastScreen;
+    private int consecutiveInactiveFrames = 0;
+
+    // 无活动阈值（连续多少帧无变化视为分心）
+    private int inactivityThreshold;
+    // 活动变化率阈值（低于此值视为无活动）
+    private double activityThreshold;
+    private boolean isMonitoring = false;
+
+    public ScreenActivityMonitor(Consumer<LocalDateTime> callback) {
+        try {
+            this.robot = new Robot();
+            this.distractionCallback = callback;
+            this.inactivityThreshold = Integer.parseInt(
+                    ConfigUtil.getProperty("screen.inactivity.threshold", "5"));
+            this.activityThreshold = Double.parseDouble(
+                    ConfigUtil.getProperty("screen.activity.threshold", "0.02"));
+        } catch (AWTException e) {
+            LoggerUtil.log(java.util.logging.Level.SEVERE, "创建Robot对象失败", e);
+        }
+    }
+
+    // 开始屏幕活动监测
+    public synchronized void startMonitoring() {
+        if (isMonitoring || monitorTimer != null) {
+            return;
+        }
+
+        LoggerUtil.log(java.util.logging.Level.INFO, "开始屏幕活动监测");
+        isMonitoring = true;
+
+        monitorTimer = new Timer(1000, e -> {
+            if (!isMonitoring) return;
+            checkScreenActivity();
+        });
+        monitorTimer.start();
+    }
+
+    // 停止屏幕活动监测
+    public synchronized void stopMonitoring() {
+        if (!isMonitoring || monitorTimer == null) {
+            return;
+        }
+
+        LoggerUtil.log(java.util.logging.Level.INFO, "停止屏幕活动监测");
+        isMonitoring = false;
+        monitorTimer.stop();
+        monitorTimer = null;
+        lastScreen = null;
+        consecutiveInactiveFrames = 0;
+    }
+
+    // 检测屏幕活动
+    private void checkScreenActivity() {
+        try {
+            if (robot == null) return;
+
+            Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
+            BufferedImage currentScreen = robot.createScreenCapture(new Rectangle(screenSize));
+
+            if (lastScreen != null) {
+                double activity = calculateActivity(lastScreen, currentScreen);
+                LoggerUtil.log(java.util.logging.Level.FINE, "屏幕活动度: " + activity);
+
+                if (activity < activityThreshold) {
+                    consecutiveInactiveFrames++;
+                    LoggerUtil.log(java.util.logging.Level.FINE, "连续无活动帧数: " + consecutiveInactiveFrames);
+
+                    if (consecutiveInactiveFrames >= inactivityThreshold) {
+                        LoggerUtil.log(java.util.logging.Level.INFO, "检测到屏幕长时间无活动");
+                        distractionCallback.accept(LocalDateTime.now());
+                        consecutiveInactiveFrames = 0;
+                    }
+                } else {
+                    consecutiveInactiveFrames = 0;
+                }
+            }
+
+            lastScreen = currentScreen;
+        } catch (Exception ex) {
+            LoggerUtil.log(java.util.logging.Level.WARNING, "屏幕活动检测异常", ex);
+        }
+    }
+
+    // 计算屏幕活动度
+    private double calculateActivity(BufferedImage img1, BufferedImage img2) {
+        try {
+            int width = img1.getWidth();
+            int height = img1.getHeight();
+            int diffPixels = 0;
+
+            // 为提高性能，每隔几个像素检查一次
+            int sampleRate = 100;
+
+            for (int y = 0; y < height; y += sampleRate) {
+                for (int x = 0; x < width; x += sampleRate) {
+                    if (img1.getRGB(x, y) != img2.getRGB(x, y)) {
+                        diffPixels++;
+                    }
+                }
+            }
+
+            // 计算活动率，考虑采样率
+            return (double) diffPixels / ((width / sampleRate) * (height / sampleRate));
+        } catch (Exception e) {
+            LoggerUtil.log(java.util.logging.Level.WARNING, "计算屏幕活动度异常", e);
+            return 1.0; // 默认认为有活动
+        }
+    }
+
+    // 设置无活动阈值（连续多少帧无变化视为分心）
+    public void setInactivityThreshold(int threshold) {
+        this.inactivityThreshold = threshold;
+    }
+
+    // 设置活动变化率阈值（低于此值视为无活动）
+    public void setActivityThreshold(double threshold) {
+        this.activityThreshold = threshold;
+    }
+}
